@@ -39,3 +39,15 @@ img {
   height: 140px;
   border-radius: 37px;
 }
+
+
+a{
+  margin: 12px;
+  height: 36px;
+  width: 36px;
+}
+
+.fa-brands, .fa-twitter{
+  height: 36px; 
+  width: 32px;
+}
