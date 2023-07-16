@@ -41,10 +41,13 @@ img {
 }
 
 
-a{
+a:hover{
   margin: 12px;
   height: 36px;
   width: 36px;
+  box-shadow: -1px 1px 10px black;
+  color: #1B212c;
+  background-color: black;
 }
 
 .fa-brands, .fa-twitter{
