@@ -49,5 +49,11 @@ a:hover{
   color: #1B212c;
   background-color: black;
 }
+@font-face {
+  font-family: myfont;
+  src: url(Lcd.ttf);
+}
+.about{
+  font-family:myfont;
 
-.about
+}
