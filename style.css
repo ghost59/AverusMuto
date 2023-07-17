@@ -21,7 +21,7 @@ p {
   font-family: Arial;
 }
 
-.links {}
+
 
 .card {
   width: 400px;
@@ -50,7 +50,4 @@ a:hover{
   background-color: black;
 }
 
-.fa-brands, .fa-twitter{
-  height: 36px; 
-  width: 32px;
-}
+.about
