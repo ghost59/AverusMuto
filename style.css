@@ -52,8 +52,17 @@ a:hover{
 @font-face {
   font-family: myfont;
   src: url(Lcd.ttf);
+
+}
+
+@font-face {
+  font-family: fontcool;
+  src: url(GLARUDA\ SKYLINE.otf);
 }
 .about{
   font-family:myfont;
 
+}
+.aboutme{
+  font-family: fontcool;
 }
